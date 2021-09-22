@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## I'm Wian
+I make tonnes of junk pretty often. Some of it is good junk.
+
 <!--
 **wian-lloyd/wian-lloyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
