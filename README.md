@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Wian
+## I'm Wian ![](https://komarev.com/ghpvc/?username=wian-lloyd)
 I make tonnes of junk pretty often.
 Some of it is good junk.
 
@@ -11,9 +11,9 @@ Some of it is good junk.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: There was a successful Tinder match in Antarctica in 2014.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=wian-lloyd)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wian-lloyd)](https://github.com/anuraghazra/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=wian-lloyd)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=wian-lloyd&theme=dark)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wian-lloyd&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **wian-lloyd/wian-lloyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
