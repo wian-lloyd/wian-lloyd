@@ -1,6 +1,8 @@
+![](https://komarev.com/ghpvc/?username=wian-lloyd)
+
 ### Hi there 👋
 
-## I'm Wian ![](https://komarev.com/ghpvc/?username=wian-lloyd)
+## I'm Wian
 I make tonnes of junk pretty often.
 Some of it is good junk.
 
@@ -12,7 +14,7 @@ Some of it is good junk.
 - ⚡ Fun fact: There was a successful Tinder match in Antarctica in 2014.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=wian-lloyd&theme=dark)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wian-lloyd&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wian-lloyd&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
