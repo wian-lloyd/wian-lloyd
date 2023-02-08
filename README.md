@@ -6,7 +6,7 @@
 <br>
 I make tonnes of junk pretty often.
 <br>
-Some of it is good junk.
+Some of it is good(award winning) junk.
 
 - 🔭 I’m currently working on an awesome property management system with some friends at Noldor.
 - 🌱 I’m currently learning too much.
