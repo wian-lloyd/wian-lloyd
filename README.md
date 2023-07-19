@@ -1,15 +1,13 @@
 **I'm Wian.**
 <br>
-I make tonnes of junk pretty often.
-<br>
-Some of it is good junk.
+Newbie bug developer. 🐛
 
 - 🔭 I’m currently working on an awesome system with some friends at Noldor.
 - 🌱 I’m currently learning Flutter and Dart.
 - 👯 I’m not currently looking to collaborate.
 - 📫 How to reach me: Check my website!
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: A single computer program detects over half of all Wikipedia vandalism with more than 90% precision.
+- ⚡ Fun fact: Only two of the top 500 supercomputers are Windows-based, whereas 485 use Linux.
 
 <!--
 **wian-lloyd/wian-lloyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
