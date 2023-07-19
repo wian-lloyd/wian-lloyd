@@ -5,9 +5,9 @@ I make tonnes of junk pretty often.
 Some of it is good junk.
 
 - 🔭 I’m currently working on an awesome system with some friends at Noldor.
-- 🌱 I’m currently learning React, Next.js & Mantine.
-- 👯 I’m not currently looking to collaborate, working on lots.
-- 📫 How to reach me: Slack/Discord.
+- 🌱 I’m currently learning Flutter and Dart.
+- 👯 I’m not currently looking to collaborate.
+- 📫 How to reach me: Check my website!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: A single computer program detects over half of all Wikipedia vandalism with more than 90% precision.
 
