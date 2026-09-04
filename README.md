@@ -1,12 +1,5 @@
 ### I'm Wian.
-
-<p align="left">
-  <a href="https://github.com/wian-lloyd/wian-lloyd/pulse" alt="Activity">
-    <img src="https://img.shields.io/github/commit-activity/m/badges/shields" />
-  </a>
-</p>
-
-<br>
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/wian-lloyd/:repo)
 
 - 🌱 I’m currently learning Flutter and Dart.
 - 👯 I’m not currently looking to collaborate.
