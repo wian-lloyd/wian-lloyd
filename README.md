@@ -1,7 +1,7 @@
-#### I'm Wian.
+### I'm Wian.
 
 <p align="left">
-  <a href="https://github.com/badges/shields/pulse" alt="Activity">
+  <a href="https://github.com/wian-lloyd/wian-lloyd/pulse" alt="Activity">
     <img src="https://img.shields.io/github/commit-activity/m/badges/shields" />
   </a>
 </p>
