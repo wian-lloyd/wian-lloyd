@@ -141,4 +141,4 @@ Fullstack and mobile developer with 7+ years building scalable web and cross-pla
 
 ### 🤖 AI junk strictly prohibited.
 
-![](./img/ai-meme.jpg)
+![](img/ai-meme.jpg)
