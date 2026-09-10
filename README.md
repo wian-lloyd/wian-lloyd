@@ -15,15 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm Wian.
+## I'm Wian.
 
-#### 🥸 About me:
+### 🥸 About me:
 
 Fullstack and mobile developer with 7+ years building scalable web and cross-platform mobile applications. Specialising in Angular and React with a strong eye for clean UI and seamless user experience. Driven by curiosity and the pursuit to master new technologies and deliver polished, production-ready work.
 
-#### 🔧 I have experience with:
+### 🌱 I’m currently learning:
+
+![nextdotjs](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![react](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![amazonwebservices](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+### 🔧 I have experience with:
 
 <!-- Languages -->
+
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -34,6 +43,7 @@ Fullstack and mobile developer with 7+ years building scalable web and cross-pla
 <br/>
 
 <!-- Frameworks -->
+
 ![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![nextdotjs](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -50,6 +60,7 @@ Fullstack and mobile developer with 7+ years building scalable web and cross-pla
 <br/>
 
 <!-- Databases -->
+
 ![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
@@ -59,11 +70,13 @@ Fullstack and mobile developer with 7+ years building scalable web and cross-pla
 <br/>
 
 <!-- Cloud -->
+
 ![google-cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![amazonwebservices](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 <br/>
 
 <!-- Other Tools -->
+
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
@@ -124,12 +137,8 @@ Fullstack and mobile developer with 7+ years building scalable web and cross-pla
 ![](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 <br/>
 
-#### 🌱 I’m currently learning:
+### 👯 I’m not currently looking to collaborate.
 
-![nextdotjs](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![react](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![amazonwebservices](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
- 
-#### 👯 I’m not currently looking to collaborate.
+### 🤖 AI junk strictly prohibited.
+
+![](./img/ai-meme.jpg)
